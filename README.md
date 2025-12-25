@@ -4,7 +4,7 @@ A lightweight, responsive calculator application built with vanilla HTML, CSS, a
 
 ## Features
 
-- ✨ Basic Operations: Addition, subtraction, multiplication, division, and modulo
+- ✨ **Basic Operations**: Addition, subtraction, multiplication, division, and modulo
 - 🎨 **Responsive Design**: Works on all screen sizes and devices
 - ⌨️ **Keyboard Support**: Use number keys and operators directly (optional via JavaScript)
 - 🧹 **Clear Function**: Reset calculations with the clear button
